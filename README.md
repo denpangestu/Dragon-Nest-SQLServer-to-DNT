@@ -41,7 +41,7 @@ DB_CONFIG = {
 Ensure your Windows account has the necessary permissions (`db_owner` or `sysadmin`) to read from the database.
 3. **Run the Application**:
 ```bash
-python main.py
+python sql_to_dnt_sa.py
 
 ```
 
